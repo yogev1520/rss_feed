@@ -16,7 +16,21 @@ import feedparser
 # lifeHack= https://lifehacker.com/
 
 
-Feed = feedparser.parse( "https://www.now14.co.il/category/c/%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%95%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94/%D7%90%D7%A7%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%94-%D7%95%D7%97%D7%93%D7%A9%D7%95%D7%AA/feed/")
-pointer = Feed.entries[0]
-print (pointer.summary)
-print (pointer.link)
+Feed = feedparser.parse( "https://www.tehila.co.il/feed/")# the rss link here 
+pointer = Feed.entries[0] # intry point 
+pointer2 = Feed.entries[1]#intry point
+pointer3 = Feed.entries[2] # intry point 
+pointer4 = Feed.entries[3]#intry point 
+
+print (pointer.summary) #get summary the text content
+print(pointer.published) # get date= day_mount__year, time=hour_minute_second
+print(pointer.link)# the pointer. you can get from  print(pointer)
+"""
+print (pointer.link) # get link
+print(pointer2.summary)
+print(pointer2.link)
+print (pointer3.summary)
+print (pointer3.link)
+print(pointer4.summary)
+print(pointer4.link)
+"""

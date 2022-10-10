@@ -1,0 +1,48 @@
+{'title': 'המסע של אליס ענן למציאת תרופה למחלה שסיכויי ההישרדות של החולים בה אפסי',
+'title_detail': {'type': 'text/plain', 'language': None, 'base': 'https://www.themarker.com/srv/tm-technation', 
+'value': 'המסע של אליס ענן למציאת תרופה למחלה שסיכויי ההישרדות של החולים בה אפסי'}, 'links': [{'rel': 'alternate', 
+'type': 'text/html', 'href': 'https://www.themarker.com/news/health/2022-10-09/ty-article-magazine/.premium/00000183-ab97-d8cc-afc7-ffff2e910000'},
+ {'type': 'image/jpg', 'length': '0', 
+'href': 'https://img.haarets.co.il/bs/00000183-ab96-d8cc-afc7-fffeb65d0000/c2/ba/cc6f90f745f0bfd918cf4c385de2/48670958.JPG?width=108&height=81',
+ 'rel': 'enclosure'}], 'link': 'https://www.themarker.com/news/health/2022-10-09/ty-article-magazine/.premium/00000183-ab97-d8cc-afc7-ffff2e910000',
+  'summary': 'טרגדיה משפחתית וגילוי אישי מטלטל הובילו את אליס ענן להקדיש את חייה 
+להקמת מיזם שיתופי שיעניק לחוקרים מאגר מידע חסר תקדים על מחלת המוח הניוונית קרויצפלד–יעקב ■ בזכותו, היא מקווה, יימצא טיפול יעיל למחלה שסיכויי ההישרדות ממנה אפסיים',
+'summary_detail': {'type': 'text/html', 'language': None, 'base': 'https://www.themarker.com/srv/tm-technation', 
+'value': 'טרגדיה משפחתית וגילוי אישי מטלטל הובילו את אליס ענן להקדיש את חייה להקמת מיזם שיתופי 
+שיעניק לחוקרים מאגר מידע חסר תקדים על מחלת המוח הניוונית קרויצפלד–יעקב ■ בזכותו, היא מקווה, יימצא טיפול יעיל למחלה שסיכויי ההישרדות ממנה אפסיים'},
+ 'id': 'https://www.themarker.com/news/health/2022-10-09/ty-article-magazine/.premium/00000183-ab97-d8cc-afc7-ffff2e910000',
+  'guidislink': False, 'published': 'Sun, 09 Oct 2022 06:11:14 +0300', 'published_parsed': time.struct_time(tm_year=2022, tm_mon=10, tm_mday=9,
+   tm_hour=3, tm_min=11, tm_sec=14, tm_wday=6, tm_yday=282, tm_isdst=0), 'authors': [{'name': 'רוני לינדר'}], 'author': 'רוני לינדר',
+    'author_detail': {'name': 'רוני לינדר'}, 'media_content': [{'width': '140', 
+'url': 'https://img.haarets.co.il/bs/00000183-ab96-d8cc-afc7-fffeb65d0000/c2/ba/cc6f90f745f0bfd918cf4c385de2/48670958.JPG?width=108&height=81'}]}
+
+
+
+
+
+
+y_rss.py
+הראל הרשטיק, מייסד סנט טק שאמורה להתמזג לנקסט ג׳ן, אסף מספיק מניות כדי לזמן אסיפה בה ינסה להדיח חמישה מתוך תשעה דירקטורים
+■ עוד הציע הרשטיק לשנות את התקנון כך שאם ימונו הדירקטורים מטעמו הם יכהנו במשך שלוש שנים ברצף, והדחתם תחייב רוב של 75%
+טרגדיה משפחתית וגילוי אישי מטלטל הובילו את אליס ענן להקדיש את חייה להקמת מיזם שיתופי שיעניק לחוקרים
+מאגר מידע חסר תקדים על מחלת המוח הניוונית קרויצפלד–יעקב ■ בזכותו, היא מקווה, יימצא טיפול יעיל למחלה שסיכויי ההישרדות ממנה אפסיים
+
+
+{'title': 'מאבק השליטה בנקסט ג׳ן: רוצח לוכד הנחשים מנסה להדיח את רוב הדירקטורים', 'title_detail': {'type': 'text/plain', 'language': None,
+'base': 'https://www.themarker.com/srv/tm-technation', 'value': 'מאבק השליטה בנקסט ג׳ן: רוצח לוכד הנחשים מנסה להדיח את רוב הדירקטורים'}, 
+'links': [{'rel': 'alternate', 'type': 'text/html',
+'href': 'https://www.themarker.com/markets/2022-10-09/ty-article/.premium/00000183-b977-d8cc-afc7-ffff48000000'},
+{'type': 'image/jpeg', 'length': '597080',
+'href': 'https://img.haarets.co.il/bs/00000183-b98a-d8cc-afc7-ffee80240001/5e/06/a73a5006419fbc0756001ee0f8ec/44086-2-2.jpg?width=108&height=81',
+'rel': 'enclosure'}], 'link': 'https://www.themarker.com/markets/2022-10-09/ty-article/.premium/00000183-b977-d8cc-afc7-ffff48000000',
+'summary': 'הראל הרשטיק, מייסד סנט טק שאמורה להתמזג לנקסט ג׳ן, אסף מספיק מניות כדי לזמן אסיפה בה ינסה להדיח חמישה מתוך תשעה דירקטורים 
+■ עוד הציע הרשטיק לשנות את התקנון כך שאם ימונו הדירקטורים מטעמו הם יכהנו במשך שלוש שנים ברצף, והדחתם תחייב רוב של 75%',
+'summary_detail': {'type': 'text/html', 'language': None, 'base': 'https://www.themarker.com/srv/tm-technation', 
+'value': 'הראל הרשטיק, מייסד סנט טק שאמורה להתמזג לנקסט ג׳ן, אסף מספיק מניות כדי לזמן אסיפה בה ינסה להדיח חמישה מתוך תשעה דירקטורים ■ 
+עוד הציע הרשטיק לשנות את התקנון כך שאם ימונו הדירקטורים מטעמו הם יכהנו במשך שלוש שנים ברצף, והדחתם תחייב רוב של 75%'},
+'id': 'https://www.themarker.com/markets/2022-10-09/ty-article/.premium/00000183-b977-d8cc-afc7-ffff48000000', 'guidislink': False, 'published':
+'Sun, 09 Oct 2022 08:01:41 +0300', 'published_parsed': time.struct_time(tm_year=2022, tm_mon=10, tm_mday=9, tm_hour=5, tm_min=1, 
+tm_sec=41, tm_wday=6, tm_yday=282, tm_isdst=0), 'authors': [{'name': 'איתי פת-יה'}], 'author': 'איתי פת-יה', 'author_detail': {'name': 'איתי פת-יה'},
+'media_content': [{'width': '140',
+'url': 'https://img.haarets.co.il/bs/00000183-b98a-d8cc-afc7-ffee80240001/5e/06/a73a5006419fbc0756001ee0f8ec/44086-2-2.jpg?width=108&height=81'}]}
+https://www.themarker.com/markets/2022-10-09/ty-article/.premium/00000183-b977-d8cc-afc7-ffff48000000
