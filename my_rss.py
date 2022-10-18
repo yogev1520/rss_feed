@@ -16,8 +16,8 @@ import feedparser
 # lifeHack= https://lifehacker.com/
 
 
-Feed = feedparser.parse( "http://feeds.feedburner.com/newsgeekfeed")# the rss link here 
-pointer = Feed.entries[3] # intry point 
+Feed = feedparser.parse( "http://photojournal.jpl.nasa.gov/rss/new")# the rss link here 
+pointer = Feed.entries[1] # intry point 
 
 
 #pointer2 = Feed.entries[1]#intry point
