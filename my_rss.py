@@ -15,14 +15,13 @@ import feedparser
 # Space_&_Cosmos ="https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
 # lifeHack= https://lifehacker.com/
 
+""" walla rss feeds"""
+# main catgory page = https://www.walla.co.il/rss
 
-Feed = feedparser.parse( "http://photojournal.jpl.nasa.gov/rss/new")# the rss link here 
+
+Feed = feedparser.parse( "https://rss.walla.co.il/feed/4")# the rss link here 
 pointer = Feed.entries[1] # intry point 
 
-
-#pointer2 = Feed.entries[1]#intry point
-#pointer3 = Feed.entries[2] # intry point 
-#pointer4 = Feed.entries[3]#intry point 
 
 print (pointer.summary) #get summary the text content
 print(pointer.published) # get date= day_mount__year, time=hour_minute_second
